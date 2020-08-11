@@ -1,0 +1,9 @@
+# Recommender-System
+This Recommender system is used to recommend movies to user on the basis of collaborative filtering.
+A recommender system, or a recommendation system (sometimes replacing 'system' with a synonym such as platform or engine), is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item.[1][2] They are primarily used in commercial applications.
+
+Recommender systems are utilized in a variety of areas and are most commonly recognized as playlist generators for video and music services like Netflix, YouTube and Spotify, product recommenders for services such as Amazon, or content recommenders for social media platforms such as Facebook and Twitter.[3] These systems can operate using a single input, like music, or multiple inputs within and across platforms like news, books, and search queries. There are also popular recommender systems for specific topics like restaurants and online dating. Recommender systems have also been developed to explore research articles and experts,[4] collaborators,[5] and financial services.[6]
+
+One approach to the design of recommender systems that has wide use is ##collaborative filtering.[33] Collaborative filtering is based on the assumption that people who agreed in the past will agree in the future, and that they will like similar kinds of items as they liked in the past. The system generates recommendations using only information about rating profiles for different users or items. By locating peer users/items with a rating history similar to the current user or item, they generate recommendations using this neighborhood. Collaborative filtering methods are classified as memory-based and model-based.
+
+This model works on the basis of correlation between user ratings & reviews. The movies that are highly correlated to a specific movie gets recommended to a particular user.
